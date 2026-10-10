@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Soul Dust Records favicon">
+  <defs>
+    <linearGradient id="sdGrad2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3d58c" />
+      <stop offset="100%" stop-color="#9b6b20" />
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="30" fill="#090b10"/>
+  <rect x="16" y="16" width="128" height="128" rx="24" fill="url(#sdGrad2)"/>
+  <text x="80" y="98" text-anchor="middle" fill="#17120a" font-size="56" font-weight="900" font-family="Arial, sans-serif">SDR</text>
+</svg>
